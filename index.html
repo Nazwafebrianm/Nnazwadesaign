@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NazwaFM | Poster Gallery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav>
+    <h1>NazwaFM</h1>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Aesthetic Poster Design</h2>
+      <p>Simple • Elegant • Meaningful</p>
+      <a href="#gallery" class="btn">Explore Gallery</a>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <h3>About</h3>
+    <p>
+      Curated by Nazwa — crafting aesthetic poster designs with a soft luxury touch,
+      where every detail speaks style and intention.
+    </p>
+  </section>
+
+  <!-- FILTER -->
+  <div class="filter">
+    <button onclick="filterItems('all')">All</button>
+    <button onclick="filterItems('minimal')">Minimal</button>
+    <button onclick="filterItems('typography')">Typography</button>
+    <button onclick="filterItems('colorful')">Colorful</button>
+  </div>
+
+  <!-- GALLERY -->
+  <section class="gallery" id="gallery">
+    <div class="card minimal">
+      <img src="https://source.unsplash.com/400x500/?poster,minimal" />
+    </div>
+
+    <div class="card typography">
+      <img src="https://source.unsplash.com/401x500/?poster,typography" />
+    </div>
+
+    <div class="card colorful">
+      <img src="https://source.unsplash.com/402x500/?poster,design" />
+    </div>
+
+    <div class="card minimal">
+      <img src="https://source.unsplash.com/403x500/?minimal,poster" />
+    </div>
+
+    <div class="card typography">
+      <img src="https://source.unsplash.com/404x500/?typography,poster" />
+    </div>
+
+    <div class="card colorful">
+      <img src="https://source.unsplash.com/405x500/?creative,poster" />
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    © 2026 NazwaFM — All Rights Reserved
+  </footer>
+
+  <!-- JS -->
+  <script src="script.js"></script>
+
+</body>
+</html>
