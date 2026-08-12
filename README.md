@@ -1,23 +1,14 @@
-# Nazwadesaign — GitHub Pages
+# Nazwadesaign — Poster Canva Edition
 
-Website portfolio jasa desain grafis, poster Canva, dan social media.
+Versi ini sengaja **tidak memakai hotlink foto eksternal sama sekali**.
+Semua gambar portfolio adalah file SVG lokal yang ikut masuk ke ZIP. Jadi GitHub Pages tidak perlu mengambil gambar dari Unsplash/Pexels/website lain dan tidak akan muncul broken image karena URL pihak ketiga.
 
-## Files
-- `index.html`
-- `style.css`
-- `script.js`
+Gambar dibuat sebagai original website assets dengan gaya poster Canva: pink, purple, blue, typography besar, shape, dan layout editorial. Kamu bebas memakai/mengubah file SVG ini untuk website tersebut.
 
-## Deploy
-1. Buat repository GitHub baru.
-2. Upload ketiga file ke root repository.
-3. Buka **Settings → Pages**.
-4. Pilih **Deploy from a branch**, branch `main`, folder `/ (root)`.
-5. Save.
+Catatan: jika yang dimaksud "foto real" adalah fotografi manusia/produk nyata, foto stock pihak ketiga tetap bisa digunakan dengan lisensi yang sesuai. Pexels menyatakan fotonya gratis untuk penggunaan komersial, dan Unsplash menyatakan gambarnya gratis untuk sebagian besar proyek komersial; tetap perhatikan logo, merek, orang yang dapat dikenali, dan hak lain yang mungkin ada.
 
-## WhatsApp
-Nomor: `+62 858-6461-0573`
-Template: `halo kakak aku mau pesen jasa desaign kamudong.....`
-
+WhatsApp: +62 858-6461-0573
+Template: halo kakak aku mau pesen jasa desaign kamudong.....
 Alamat: Metland Transyogi, Cileungsi, Bogor.
 
-Visual portfolio di template dibuat dengan CSS sehingga tidak membutuhkan gambar berlisensi. Kamu bisa menggantinya dengan karya asli kapan saja.
+Deploy: upload seluruh isi ZIP ke root repository GitHub Pages.
