@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
-<rect width="800" height="1000" fill="#ffe8f3"/><rect x="55" y="55" width="690" height="890" rx="345" fill="#ffb1d1"/><rect x="105" y="105" width="590" height="790" rx="295" fill="#7b69ee"/>
-<text x="150" y="220" font-family="Arial" font-size="24" font-weight="700" fill="white">SOCIAL STORY / 04</text><text x="150" y="420" font-family="Arial" font-size="92" font-weight="900" fill="white">CREATE</text><text x="150" y="510" font-family="Arial" font-size="92" font-weight="900" fill="#24232b">YOUR</text><text x="150" y="600" font-family="Arial" font-size="92" font-weight="900" fill="white">VIBE</text><text x="150" y="670" font-family="Arial" font-size="25" fill="white">pink × purple × blue</text><circle cx="610" cy="780" r="60" fill="#fff"/><text x="580" y="810" font-size="58" fill="#ff5da8">✦</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#151515"/><circle cx="500" cy="610" r="350" fill="#d8c7a6"/><circle cx="500" cy="610" r="250" fill="#151515"/><circle cx="500" cy="610" r="80" fill="#d8c7a6"/><path d="M760 180 V920" stroke="#d8c7a6" stroke-width="30"/><path d="M820 180 V920" stroke="#d8c7a6" stroke-width="8"/>
+<text x="85" y="1120" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#111">NOCTURNE</text>
+<text x="875" y="90" text-anchor="end" font-family="Arial, sans-serif" font-size="34" fill="#111">04</text>
+</svg>

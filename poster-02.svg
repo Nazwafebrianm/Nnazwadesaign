@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
-<rect width="800" height="1000" fill="#fff0f7"/><path d="M0 0h800v240c-210 80-420 80-800 0z" fill="#ff5da8"/><circle cx="600" cy="590" r="220" fill="#8368f6"/><circle cx="160" cy="720" r="120" fill="#62b7ff"/>
-<text x="70" y="330" font-family="Arial" font-size="25" font-weight="700" fill="#8368f6">CANVA MOOD / 02</text><text x="70" y="470" font-family="Arial" font-size="110" font-weight="900" fill="#24232b">GOOD</text><text x="70" y="565" font-family="Arial" font-size="110" font-weight="900" fill="#ff5da8">MOOD</text><text x="70" y="620" font-family="Arial" font-size="28" fill="#24232b">today &amp; every day ♡</text>
-<rect x="70" y="760" width="210" height="55" rx="28" fill="#24232b"/><text x="105" y="798" font-family="Arial" font-size="22" fill="white">swipe →</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#e8ddd8"/><path d="M180 1100 L390 250 L610 250 L820 1100 Z" fill="#202020"/><ellipse cx="500" cy="250" rx="110" ry="140" fill="#c7aaa0"/><path d="M380 350 Q500 500 620 350 L720 1000 L280 1000 Z" fill="#f4eee8"/><circle cx="790" cy="170" r="80" fill="#9b735f"/>
+<text x="85" y="1120" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#111">SILK / LIGHT</text>
+<text x="875" y="90" text-anchor="end" font-family="Arial, sans-serif" font-size="34" fill="#111">02</text>
+</svg>

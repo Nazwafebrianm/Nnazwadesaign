@@ -1,0 +1,1 @@
+Nazwadesaign FIXED — all poster artwork is local SVG. No external image URLs. Upload the folder contents to GitHub Pages.
